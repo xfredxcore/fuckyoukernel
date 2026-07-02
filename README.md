@@ -1,6 +1,6 @@
 # FUCKYOUKERNEL
 
-[screenshot.png](screenshot.png)
+[screenshot.png]
 
 Behold this repository. Within these digital catacombs lies not merely a kernel, but a defiance—a singular, unyielding testament to the friction between pure thought and the decaying architecture of the machine.
 
